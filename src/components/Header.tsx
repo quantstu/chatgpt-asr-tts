@@ -14,7 +14,7 @@ export function Header() {
       style={{ backgroundColor: 'var(--chakra-colors-chakra-body-bg)' }}
     >
       <div className="flex items-center space-x-2 font-medium">
-        <Logo />
+
         <IconButton
           aria-label="ChatList"
           variant="ghost"
